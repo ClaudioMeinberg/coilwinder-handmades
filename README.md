@@ -70,6 +70,7 @@ O driver sugerido para todas as versões é o **[DRV8825](https://www.ti.com/lit
 |Acoplamento Flexível 5 X 8mm | 1 | 15,00| 15,00 | X | X |
 |Fuso Trapezoidal 150mm Com Castanha | 1 | 25,00| 25,00 | X | X |
 |Guia Linear 8x150mm | 2 | 15,00| 30,00 | X | X |
+|Rolamento Linear Lmf8uu | 2 | 20,00 | 40,00 | X | X |
 |Suporte para guia linear | 2 | 15,00| 30,00 | X | X |
 |Driver DRV8825 | 2 | 20,00| 40,00 | X | X |
 |Motor de passo Nema 17 - 4,2 Kgf.cm / 1,7A | 1 | 60,00| 60,00 | X | X |
@@ -77,7 +78,7 @@ O driver sugerido para todas as versões é o **[DRV8825](https://www.ti.com/lit
 |Fonte 9V 2A | 1 | 30,00 | 30,00 | X | X |
 |Display LCD HMI TFT Nextion 2.4 | 1 | 235,00 | 235,00 | X |  |
 |Display OLED 0.96 I2C | 1 | 30,00 | 30,00 |  | X |
-||||**Total**|600,00|395,00|
+||||**Total**|640,00|435,00|
 
 
 ### Peças impressas em 3D
